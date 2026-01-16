@@ -1,4 +1,4 @@
 DIKY RESOLUSI
   -saya ingin menghijaukan contribution graph
   -saya ingin paham laravel di tahun 2026 ini
-  
+  -saya berkeinginan membuat web dinamis menggunakan laravel
