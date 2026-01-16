@@ -1,4 +1,6 @@
 RENCANA BELAJAR BARU
   saya ingin membuat fitur payment
 *menggunakan api payment gateway
+*menggunakan payment gateway dari midtrans
   saya akan mengikuti bootcamp jika skill sudah memadai
+*dan jika mempunyai uang
